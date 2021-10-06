@@ -9,12 +9,12 @@
       
       <div class="form-floating m-1">
         <input type="text" class="form-control" id="floatingInput" name="form-username">
-        <label for="floatingInput">Username (admin)</label>
+        <label for="floatingInput">Username</label>
       </div>
       
       <div class="form-floating m-1">
         <input type="password" class="form-control" id="floatingPassword" name="form-password">
-        <label for="floatingPassword">Password (pass123)</label>
+        <label for="floatingPassword">Password</label>
       </div>
 
       <div class="checkbox mb-3 m-1">
