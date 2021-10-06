@@ -54,6 +54,7 @@
                 </div>
               </div>
             </div>
+
             <div class="col-md-3">
                 <div class="card">
                 <img src="img/card-openhouse.jpg" class="card-img-top rounded" alt="openhouse virtual 360 graus">
@@ -64,6 +65,7 @@
                 </div>
               </div>
             </div>
+
             <div class="col-md-3">
                 <div class="card">
                 <img src="img/card-arrendar.jpg" class="card-img-top rounded" alt="investimento a render">
@@ -74,6 +76,7 @@
                 </div>
               </div>
             </div>
+            
             <div class="col-md-3">
                 <div class="card">
                 <img src="img/card-openhouse.jpg" class="card-img-top rounded" alt="openhouse virtual 360 graus">

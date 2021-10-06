@@ -1,7 +1,7 @@
 <br>
     <footer>    
         <div class="d-flex justify-content-center mt-3">
-            <p style="color: white;">Copyright 2021 Francisco Pereira® | Desenvolvido por Eliezer Rangel</p>
+            <p style="color: white;">Copyright 2021 Francisco Pereira® | Developed by Eliezer Rangel</p>
         </div>    
     </footer>
 

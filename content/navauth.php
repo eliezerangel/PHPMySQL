@@ -20,15 +20,15 @@
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false"> Investimentos</a>
                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                   <li><a class="dropdown-item" href="index.php?p=home">Imóveis para Venda <span class="badge bg-danger"> Em breve!</span></a></li>
-                  <li><a class="dropdown-item" href="index.php?p=home">Imóveis para Investimento <span class="badge bg-danger"> Em breve!</span></a></li>                  
-                  <li><a class="dropdown-item" href="index.php?p=home">Imóveis para Restauro <span class="badge bg-danger"> Em breve!</span></a></li>
+                  <li><a class="dropdown-item" href="index.php?p=home">Imóveis para Investimento</a></li>                  
+                  <li><a class="dropdown-item" href="index.php?p=home">Imóveis para Restauro</a></li>
                 </ul>
               </li>            
             </ul>
             <a class="nav-link" style="color: gray;" aria-current="page" href="index.php?p=minhaconta">Minha Conta</a>                  
             <a class="nav-link" style="color: gray;" aria-current="page" href="index.php?p=logout">logout</a>     
-            <a class="nav-link" id="fb" aria-current="page" href="https://www.facebook.com/FranciscoPereiraCentury21/" target="_blank"><img src="img/favicon/facebook.png" alt="" style="width: 20px;"></a>
-            <a class="nav-link" id="insta" aria-current="page" href="https://www.instagram.com/francisco.pereira_consultant/" target="_blank"><img src="img/favicon/instagram.png" alt="" style="width: 20px;"></a>             
+            <a class="nav-link" id="fb" aria-current="page" href="#" target="_blank"><img src="img/favicon/facebook.png" alt="" style="width: 20px;"></a>
+            <a class="nav-link" id="insta" aria-current="page" href="#" target="_blank"><img src="img/favicon/instagram.png" alt="" style="width: 20px;"></a>             
         </div>
     </div>
   </nav>  
